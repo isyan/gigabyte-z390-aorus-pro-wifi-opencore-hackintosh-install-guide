@@ -1,7 +1,7 @@
 # Hackintosh Opencore 0.6.3 and MacOS Catalina 10.15.7
 insert system info here
 
-## DISCLAIMER - This guide was made to help those with similar hardware who's trying to hackintosh via Opencore 0.6.3. Follow at your own risk. THIS GUIDE WILL BE CONSTANTLY UPDATED
+## DISCLAIMER - This guide was made to help those with similar hardware who's trying to hackintosh via Opencore 0.6.3. FOLLOW AT YOUR OWN RISK!
 
 ## Hardware
 
